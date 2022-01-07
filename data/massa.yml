@@ -1,0 +1,16 @@
+#Massa: novo usuario (massa queima ao rodar ma vez)
+Nome: "Maria Silva"
+email: "mariateste@gmail.com"
+senha: "Testeteste1*"
+telefone: "11995647899"
+nome_site: "www.mariasilva.com.br"
+
+#Massa: erro
+senha_incorreta: "mmm124"
+nome_site_0: ""
+
+#Massa: Usuario já cadastrado
+#Insira aqui um usuario já cadastrado com email e senha validas 
+email_2: "contato.suzyfotografia@gmail.com"
+senha_2: "********"
+

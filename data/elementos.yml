@@ -1,0 +1,17 @@
+campo_digite_nome: input[id='FullName']
+campo_digite_email: input[id='Email']
+campo_digite_senha: input[id='Password']
+campo_digite_email_login: input[id='email']
+campo_digite_senha_login: input[id='password']
+campo_digite_telefone: input[id='PhoneNumber']
+campo_digite_site: input[id='CompanySite']
+btn_caixa: input[id='bds-checkbox-0']
+btn_robo: "a[class='recaptcha-checkbox-border']"
+btn_enviar: "button[id='blip-login']"
+btn_cad: a[id='submitButton']
+btn_selecionar: input[placeholder='Select...']
+btn_opcao: "a[class='blip-select__option__label blip-select__option--selected']"
+txt_page: "div[class='msg']"
+option_form: a[id='register-form']
+senha: a[id='login-forgot-password']
+lgn_google: a[id='blip-login-with-google']
